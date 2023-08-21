@@ -1,0 +1,9 @@
+[submodule "hermes"]
+	path = hermes
+	url = https://github.com/informalsystems/hermes
+[submodule "bor"]
+	path = bor
+	url = https://github.com/maticnetwork/bor
+[submodule "gaia"]
+	path = gaia
+	url = https://github.com/cosmos/gaia
